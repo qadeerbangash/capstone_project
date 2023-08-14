@@ -1,0 +1,6 @@
+redis
+pyspark==3.4.0
+requests
+pandas
+tqdm
+python-decouple

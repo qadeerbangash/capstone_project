@@ -1,0 +1,2 @@
+0 * * * * /usr/local/bin/python /home/app/main.py >> /var/log/cron.log 2>&1
+
